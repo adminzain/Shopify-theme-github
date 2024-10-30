@@ -75,10 +75,6 @@
 }
 
 /* base */
-body {
-  background-color: red;
-}
-
 .page-width {
   max-width: var(--page-width);
   margin: 0 auto;
